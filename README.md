@@ -1,3 +1,7 @@
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fxbill9%2Ffirestore-stdio-swift%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/xbill9/firestore-stdio-swift)
+
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fxbill9%2Ffirestore-stdio-swift%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/xbill9/firestore-stdio-swift)
+
 # MCP Firestore Swift Server
 
 A Model Context Protocol (MCP) server implemented in Swift that integrates with Google Cloud Firestore. This server exposes tools to manage a product inventory database.

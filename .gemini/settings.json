@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "firestore-stdio-swift": {
+      "command": "$HOME/firestore-stdio-swift/.build/x86_64-unknown-linux-gnu/release/firestore-stdio-swift",
+      "args": []
+    }
+  }
+}
